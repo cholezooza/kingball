@@ -1,7 +1,4 @@
-#EXTINF:0 tvg-rec="0",Fox Life HD
-#EXTGRP:HD
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6389/index.m3u8
-#EXTINF:0 tvg-rec="0",Museum HD
+#EXTM3U
 #EXTGRP:HD
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6390/index.m3u8
 #EXTINF:0 tvg-rec="0",HGTV HD RU
