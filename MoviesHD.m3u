@@ -57,8 +57,14 @@ https://we-play.tv/watching/movie/sentinelle-2021
 https://www.we-play.tv/watching/movie/guardians-of-the-galaxy-vol-2-2017
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.we-play.tv//uploads/posters/olympus-has-fallen-poster-1602424726.jpeg" group-title="GSE NO GROUP", Olympus Has Fallen
-https://www.we-play.tv//uploads/posters/olympus-has-fallen-poster-1602424726.jpeg
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/343ae07b426a17e0ab1a43d84efed2d7/343ae07b426a17e0ab1a43d84efed2d7.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.we-play.tv//uploads/posters/london-has-fallen-poster-1602424849.jpeg" group-title="GSE NO GROUP", London Has Fallen
 https://we-play.tv/watching/movie/london-has-fallen-2016
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.img04.xyz/assets/movie_poster/4/4dfb5b0f25b8c9392d7ed8cbf4cd74a2.jpg" group-title="GSE NO GROUP", Blade Runner 2049
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/9bdb3f5e0fe048807e3704454cc07ede/9bdb3f5e0fe048807e3704454cc07ede.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.img04.xyz/assets/movie_poster/7/765782dd0d209a70f5c3460a3363626f.jpg" group-title="GSE NO GROUP", ยุทธการถล่มลอนดอน (2016)
+http://bit.ly/lonfallen
 
