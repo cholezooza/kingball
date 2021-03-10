@@ -3,7 +3,7 @@
 https://warpdooball.com/live-football/?id=2158261
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4507.png", Thai League Live (NBT)
-https://we-play.tv/watching/tv/11-nbt
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4503.png", Thai League Live (MCOT)
 https://we-play.tv/watching/tv/mcot-hd
