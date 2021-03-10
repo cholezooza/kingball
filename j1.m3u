@@ -1,7 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIV_7Jk0Dkk9Xx1YrOO1ZEIfk3vsAqNEpDw&usqp=CAU", J League Live
+#EXTINF:-1 group-title="J League Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIV_7Jk0Dkk9Xx1YrOO1ZEIfk3vsAqNEpDw&usqp=CAU", J League Live
 https://warpdooball.com/live-football/?id=2158261
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIV_7Jk0Dkk9Xx1YrOO1ZEIfk3vsAqNEpDw&usqp=CAU", J League Live (bk)
-http://www.youtube.com/embed/eEugOeDiooY
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4507.png", Thai League Live (NBT)
+https://www.doofree88.com/live/nbt
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4503.png", Thai League Live (MCOT)
+https://www.doofree88.com/live/mcot-hd
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1354.png", Thai League Live (CH 5)
+https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-5-hd
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png", Thai League Live (T Sport)
+https://www.doofree88.com/live/t-sports
+
+
 
