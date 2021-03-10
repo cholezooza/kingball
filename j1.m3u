@@ -6,14 +6,13 @@ https://warpdooball.com/live-football/?id=2158261
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4503.png", Thai League Live (MCOT)
-https://we-play.tv/watching/tv/mcot-hd
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1354.png", Thai League Live (CH 5)
-https://we-play.tv/watching/tv/ch5-hd
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png", Thai League Live (T Sport)
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4500.png", Thai League Live (Thairath TV)
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
