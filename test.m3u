@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,WorkPoint
-https://kingball.tk/work.html
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4503.png",WorkPoint
+https://tv.trueid.net/embed/workpointtv?autoplay=yes
 
-#EXTINF:-1,MCOT
-https://junctv.tk/hd-mcot.html
+#EXTINF:-1 tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-mono.png",Mono29
+https://tv.trueid.net/embed/mono29?autoplay=yes
 
-#EXTINF:-1,NEWTV
-https://junctv.tk/newtv.html
+#EXTINF:-1 tvg-logo="https://www.img01.xyz/assets/img/ch_logo/MANGORN.png",M Channel
+https://tv.trueid.net/embed/mchannel?autoplay=yes  
