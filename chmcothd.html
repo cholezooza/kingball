@@ -1,12 +1,24 @@
-<DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>MCOT HD</title>
+    <title>MCOT LIVE</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
 </head>
-<body>
-	<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> 
-<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://tv.trueid.net/embed/9mcot-hd?autoplay=1" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe> 
-	</div>
+
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://img-cdn.we-play.tv/posters/mcot-hd-poster1602705016.jpeg" style="width: 159px; height: 92;">
+<br>
+    <video id="player" class="video-js vjs-default-skin" width="720" controls preload="auto">
+        <source src="https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8" type="application/x-mpegURL" />
+    </video>
+    <script>
+        var player = videojs('#player');
+    </script>
+    </center>
 </body>
+
 </html>
