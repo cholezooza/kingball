@@ -1,12 +1,12 @@
 #EXTM3U
-EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport1.png",True Sport HD 1
+#EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport1.png",True Sport HD 1
 https://embed-web.blackboxsys.nett/player.php?channel=hd-tsport1&api_key=kmf743jnd
 
-EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport2.png",True Sport HD 2
+#EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport2.png",True Sport HD 2
 https://embed-web.blackboxsys.nett/player.php?channel=hd-tsport2&api_key=kmf743jnd
 
-EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport3.png",True Sport HD 3
+#EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport3.png",True Sport HD 3
 https://embed-web.blackboxsys.nett/player.php?channel=hd-tsport3&api_key=kmf743jnd
 
-EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport4.png",True Sport HD 4
+#EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport4.png",True Sport HD 4
 https://embed-web.blackboxsys.nett/player.php?channel=hd-tsport4&api_key=kmf743jnd
