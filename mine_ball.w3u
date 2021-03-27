@@ -33,7 +33,7 @@
                {
                "name": "Premier  HD 1 (BK-3)",
                "image": "https://i.postimg.cc/B6723mVf/Premier-League.png",              
-               "url": "http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8" 
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8" 
 },
                 {
                "name": "Premier  HD 2",
@@ -126,15 +126,30 @@
                "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-bein8&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                 {
+               "name": "Bein Sport 8 (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein8.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },              
+               {
                "name": "Bein Sport 9",
                "image": "https://overseer.blackboxsys.net/images/png/hd-bein9.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-bein9&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+               {
+               "name": "Bein Sport 9 (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein9.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },            
                  {
                "name": "Bein Sport 10 ",
                "image": "https://overseer.blackboxsys.net/images/png/hd-bein10.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-bein10&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+                 {
+               "name": "Bein Sport 10  (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-bein10.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },           
                 {
                "name": "Bein Sport 11",
                "image": "https://overseer.blackboxsys.net/images/png/hd-bein11.png",              
@@ -168,33 +183,53 @@
                     {
                "name": "Fox Sport USA 1",
                "image": "https://overseer.blackboxsys.net/images/png/us-foxsports1.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=us-foxsport1&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports1usa/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+                    {
+               "name": "Fox Sport USA 2",
+               "image": "https://overseer.blackboxsys.net/images/png/us-foxsports2.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2usa/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },             
                     {
                "name": "ESPN 1",
                "image": "https://overseer.blackboxsys.net/images/png/us-espn1.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=us-espn1&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnbrazil/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                                
                     {
-               "name": "ESPN 2",
-               "image": "https://overseer.blackboxsys.net/images/png/us-espn2.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=us-espn2&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "name": "ESPN USA",
+               "image": "https://overseer.blackboxsys.net/images/png/us-espn1.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnus/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                 
                      {
                "name": "Skysports Football",
                "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },         
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+                     {
+               "name": "Skysports Football (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                  
                      {
                "name": "Skysports Premier League",
                "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },         
                      {
+               "name": "Skysports Premier League (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                       
+                     {
                "name": "Skysports Mainevent",
                "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                    
+                     {
+               "name": "Skysports Mainevent (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                     
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                      
                      {
                "name": "Skysports F 1",
                "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-f1.png",              
