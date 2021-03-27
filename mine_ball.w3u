@@ -207,7 +207,7 @@
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                 
                   {
                "name": "Eleven Sport 1",
-               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1Tu1K8ar7vK_6BXlvJYhm-4ylz-SBFgc3Q&usqp=CAU",              
+               "image": "https://i.postimg.cc/SRd2Y82f/ele1.png",              
                "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                                             
                      {
@@ -285,7 +285,49 @@
                "image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax7.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=fr-beinsportmax7&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                   
-                         
+             {
+               "name": "Sport TV 1",
+               "image": "https://i.postimg.cc/fWGg89PR/sptv1.png",              
+               "url": "https://cdn1.cloud-streaming.live/live/sporttv1/sport/sporttv1/chunks.m3u8","referer": "https://bettopfivemovie.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Sport TV 2",
+               "image": "https://i.postimg.cc/SNKpp8r7/sptv2.png",              
+               "url": "https://cdn1.cloud-streaming.live/live/sporttv2/sport/sporttv2/chunks.m3u8","referer": "https://bettopfivemovie.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Sport TV 3",
+               "image": "https://i.postimg.cc/m26WZDpx/sptv2.png",              
+               "url": "https://cdn1.cloud-streaming.live/live/sporttv3/sport/sporttv3/chunks.m3u8","referer": "https://bettopfivemovie.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Sport TV 4",
+               "image": "https://i.postimg.cc/VkrQJ82J/sptv4.png",              
+               "url": "https://cdn1.cloud-streaming.live/live/sporttv4/sport/sporttv4/chunks.m3u8","referer": "https://bettopfivemovie.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Sport TV 5",
+               "image": "https://i.postimg.cc/HkqG5NCB/sptv5.png",              
+               "url": "https://cdn1.cloud-streaming.live/live/sporttv5/sport/sporttv5/chunks.m3u8","referer": "https://bettopfivemovie.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Ziggo Sport Voetball",
+               "image": "https://i.postimg.cc/2638xsZB/s-voetball.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Ziggo Sport Select",
+               "image": "https://i.postimg.cc/wBqB1yx2/z-select.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+                       
 ]
 }
 ]
