@@ -199,7 +199,17 @@
                "name": "ESPN USA",
                "image": "https://overseer.blackboxsys.net/images/png/us-espn1.png",              
                "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnus/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },     
+                  {
+               "name": "GOL ",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTXPVM28PN_PdIN7MV5vuxaTckVWa3CQ2Ow&usqp=CAU",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/gol/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                 
+                  {
+               "name": "Eleven Sport 1",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1Tu1K8ar7vK_6BXlvJYhm-4ylz-SBFgc3Q&usqp=CAU",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                                             
                      {
                "name": "Skysports Football",
                "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",              
@@ -241,10 +251,20 @@
                "url": "https://embed-web.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },     
                     {
+               "name": "Bein Sports France 1 (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport1fr/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                 
+                    {
                "name": "Bein Sports France 2",
                "image": "https://overseer.blackboxsys.net/images/png/fr-bein2hd.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                  
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },      
+                   {
+               "name": "Bein Sports France 2 (BK-1)",
+               "image": "https://overseer.blackboxsys.net/images/png/fr-bein2hd.png",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport2fr/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                              
                    {
                "name": "Bein Sports France 3",
                "image": "https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",              
