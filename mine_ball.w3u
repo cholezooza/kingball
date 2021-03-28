@@ -68,22 +68,22 @@
        {
                "name": "Astro Super Sport 1",
                "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=my-asp1hd&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "url": "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                {
                "name": "Astro Super Sport 2",
                "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=my-asp2hd&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "url": "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                {
                "name": "Astro Super Sport 3",
                "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=my-asp3hd&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "url": "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                {
                "name": "Astro Super Sport 4",
                "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=my-asp4&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+               "url": "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                  {
                "name": "Bein Sport 1",
@@ -209,7 +209,17 @@
                "name": "Eleven Sport 1",
                "image": "https://i.postimg.cc/SRd2Y82f/ele1.png",              
                "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                                             
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" }, 
+                  {
+               "name": "C More Football",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVur1KK0dx4tBIllge6Q5aLixUMxq4CHh-tt3ce96bAXPwnqv5kE5hZVWg&s=10",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorefootball/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+                  {
+               "name": "Premier Sport UK",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOug7MbaLm7zP3HQCaqmR4QeLIp7j-Vnx_A&usqp=CAU",              
+               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/premiersports/playlist.m3u8",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },                                                                                                                                                                                  
                      {
                "name": "Skysports Football",
                "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",              
@@ -325,6 +335,12 @@
                "name": "Ziggo Sport Select",
                "image": "https://i.postimg.cc/wBqB1yx2/z-select.png",              
                "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},     
+             {
+               "name": "Sport Digital",
+               "image": "https://api.blackboxsys.net/images/png/de-sportdigital.png",              
+               "url": "https://embed-web.blackboxsys.net/player.php?channel=de-sportdigital&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },     
                 {
