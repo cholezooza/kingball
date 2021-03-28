@@ -3,7 +3,7 @@
    "author": "@WHOAMI",
    "url": "http://kingball.tk/mine_ball.w3u",
    "image": "https://i.postimg.cc/SQJ3F3mt/Angry-Devil.png",
-   "info": "แจกไว้ดูบอล  แจกต้อได้ ไม่ว่ากัน !!!!ห้ามนำไปขาย!!!",
+   "info": "แจกไว้ดูบอล  แจกต่อได้ ไม่ว่ากัน !!!!ห้ามนำไปขาย!!!",
    "groups": [  
             
       {
@@ -56,10 +56,15 @@
                "url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8" 
 },     
                {
+               "name": "T Sport",
+               "image": "https://overseer.blackboxsys.net/images/png/sd-tsports.png",              
+               "url": "https://embed-web.blackboxsys.net/player.php?channel=sd-tsports&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+               {
                "name": "Bein Sport TH 1",
                "image": "https://i.postimg.cc/fRjZJyQB/epl-bein1.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=epl-bein1&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },     
                {
                "name": "Bein Sport TH HD 2",
                "image": "https://i.postimg.cc/qv9nMm08/epl-bein2.png",              
@@ -388,4 +393,3 @@
 }
 ]
 }
-
