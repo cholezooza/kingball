@@ -3,7 +3,7 @@
    "author": "@WHOAMI",
    "url": "http://kingball.tk/mine_football.w3u",
    "image": "https://i.postimg.cc/SQJ3F3mt/Angry-Devil.png",
-   "info": "แจกไว้ดูบอล  แจกต่อได้ ไม่ว่ากัน !!!!ห้ามนำไปขาย!!!",
+   "info": "แจกไว้ดูบอล  แจกต้อได้ ไม่ว่ากัน !!!!ห้ามนำไปขาย!!!",
    "groups": [  
             
       {
@@ -56,20 +56,10 @@
                "url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8" 
 },     
                {
-               "name": "T Sport",
-               "image": "https://overseer.blackboxsys.net/images/png/sd-tsports.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=sd-tsports&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
-               {
-               "name": "T Sport (BK)",
-               "image": "https://overseer.blackboxsys.net/images/png/sd-tsports.png",              
-               "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/chunks.m3u8","referer": "https://www.ijube.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },    
-               {
                "name": "Bein Sport TH 1",
                "image": "https://i.postimg.cc/fRjZJyQB/epl-bein1.png",              
                "url": "https://embed-web.blackboxsys.net/player.php?channel=epl-bein1&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },     
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                {
                "name": "Bein Sport TH HD 2",
                "image": "https://i.postimg.cc/qv9nMm08/epl-bein2.png",              
@@ -393,8 +383,48 @@
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg",              
                "url": "https://we-play.tv/watching/tv/skynet-sports-hd","referer": "https://we-play.tv/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" }, 
+               {
+               "name": "NOVA Sport",  
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",  
+               "url": "https://www.doofootball.com/live/streaming/novasport/625916","referer": "https://www.doofootball.com/",
+               "playInNatPlayer": "true" },
+               {
+               "name": "VIASAT FOTBOLL",  
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",  
+               "url": "https://www.doofootball.com/live/streaming/viasatfotboll/607846","referer": "https://www.doofootball.com/",
+               "playInNatPlayer": "true" },
+
+
+               {
+               "name": "RMC Sport News",  
+               "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_RMC_Sport_News_2018.png",  
+               "url": "http://rv.therevenge.co:80//live/6076922262/2684021116/78381.ts",
+               "playInNatPlayer": "true" },
+               {
+               "name": "RMC Sport 1",  
+               "image": "https://tvepg.eu/img/france/logo/rmc_sport_1.png",  
+               "url": "http://rv.therevenge.co:80//live/6076922262/2684021116/78380.ts",
+               "playInNatPlayer": "true" },
+               {
+               "name": "RMC Sport 2",  
+               "image": "https://tvepg.eu/img/france/logo/rmc_sport_2.png",  
+               "url": "http://rv.therevenge.co:80//live/6076922262/2684021116/78379.ts",
+               "playInNatPlayer": "true" },
+               {
+               "name": "RMC Sport 3",  
+               "image": "https://tvepg.eu/img/france/logo/rmc_sport_3.png",  
+               "url": "http://rv.therevenge.co//live/6076922262/2684021116/79036.ts",
+               "playInNatPlayer": "true" },
+               {
+               "name": "RMC Sport 4",  
+               "image": "https://tvepg.eu/img/france/logo/rmc_sport_4.png",  
+               "url": "http://rv.therevenge.co//live/6076922262/2684021116/79035.ts",
+               "playInNatPlayer": "true" },
+
+               
                       
 ]
 }
 ]
 }
+
