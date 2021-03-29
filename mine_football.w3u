@@ -337,12 +337,6 @@
                "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },     
-             {
-               "name": "Sport Digital",
-               "image": "https://api.blackboxsys.net/images/png/de-sportdigital.png",              
-               "url": "https://embed-web.blackboxsys.net/player.php?channel=de-sportdigital&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-},     
                 {
                "name": "Skynet Sport1",
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg",              
@@ -393,6 +387,12 @@
                "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",  
                "url": "https://www.doofootball.com/live/streaming/viasatfotboll/607846","referer": "https://www.doofootball.com/",
                "playInNatPlayer": "true" },
+             {
+               "name": "Sport Digital",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",        
+               "url": "https://embed-web.blackboxsys.net/player.php?channel=de-sportdigital&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},                   
 
 
                {
