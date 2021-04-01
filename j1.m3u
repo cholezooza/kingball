@@ -2,17 +2,66 @@
 #EXTINF:-1 group-title="J League Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIV_7Jk0Dkk9Xx1YrOO1ZEIfk3vsAqNEpDw&usqp=CAU", J League Live
 https://warpdooball.com/live-football/?id=2158261
 
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1354.png", Thai League Live (CH 5)
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4507.png", Thai League Live (NBT)
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4503.png", Thai League Live (MCOT)
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+http://61.19.242.134/feed/chmcothd/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1354.png", Thai League Live (CH 5)
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/431afdea54628d3ef34c2237f33d5902.png", True4U
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/431afdea54628d3ef34c2237f33d5902.png", Ttue4U
+http://61.19.242.134/feed/chtrue4u/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/cccd6667201635a856f19a655f44b38a.png", TNN 16
+http://61.19.242.134/feed/chtnn/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/249c2ba950b06d482cdd53313e5af31a.png", NEW 18
+http://61.19.242.134/feed/newtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/7a71eba5cab8e4f1df9944395977a971.png", Nation TV
+http://61.19.242.134/feed/chnation/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/706d46056470ec69615cc421e5872824.png", CH 8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/39cf0fabf736d44e1ab26e24a1388991.png", Workpoint TV
+http://61.19.242.134/feed/chworkpoint/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/7ef4f0686715b5e8a7b4fb74e5bca47d.png", GMM 25
+http://61.19.242.134/feed/chgmm/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png", Thai League Live (T Sport)
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4500.png", Thai League Live (Thairath TV)
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/ba7aea589e60830beacbf7c26dc6563a.png", Mono29
+http://61.19.242.134/feed/chmono29/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://i.postimg.cc/nc3vcW36/hddyztjzaps00woww.png", ONE
+http://61.19.242.134/feed/chonehd/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/b5267ee3d4df24321148b128081c53cd.png", CH 7
+http://61.19.242.134/feed/ch7hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/b4d2669bf368aaf787b71ae1ae1a16bb.png", Amarin TV
+http://61.19.242.134/feed/chamarin/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/369f169a0d67a139cae2017ab8bdf6d8.png", PPTV
+http://61.19.242.134/feed/chpptvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/18ae67480cf818473d1a2a590b03b908.png", Thai PBS
+http://61.19.242.134/feed/chthaipbs/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://i.postimg.cc/fRgx4TkW/topnews.png",TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
