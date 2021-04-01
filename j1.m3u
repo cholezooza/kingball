@@ -28,7 +28,7 @@ http://61.19.242.134/feed/newtv/playlist.m3u8
 http://61.19.242.134/feed/chnation/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/706d46056470ec69615cc421e5872824.png", CH 8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+http://61.19.242.134/feed/ch8/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/39cf0fabf736d44e1ab26e24a1388991.png", Workpoint TV
 http://61.19.242.134/feed/chworkpoint/playlist.m3u8
@@ -50,6 +50,9 @@ http://61.19.242.134/feed/chonehd/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/b5267ee3d4df24321148b128081c53cd.png", CH 7
 http://61.19.242.134/feed/ch7hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/11216109ec29412585e3ae8c6341a17c.png", CH 3
+http://61.19.242.134/feed/ch3hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai League Live" tvg-logo="https://apiball.stream9x.com/previews/channel/b4d2669bf368aaf787b71ae1ae1a16bb.png", Amarin TV
 http://61.19.242.134/feed/chamarin/playlist.m3u8
