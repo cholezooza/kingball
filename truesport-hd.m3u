@@ -2,9 +2,11 @@
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
 
-
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/epl1_480/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
@@ -53,16 +55,13 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport6_480p/chunks
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport7_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",FOX SPORT 1
-#http://77.83.117.60:8888//02_foxsport_720p/chunklist.m3u8
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport1_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-foxsports2.png",FOX SPORT 2
-#https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport3_480p/chunks.m3u8
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport2_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-foxsports3.png",FOX SPORT 3
-#https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport3_480p/chunks.m3u8
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport3_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-golf.png",Golf HD
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/golfchannel_480p/chunks.m3u8
@@ -80,7 +79,7 @@ https://we-play.tv/watching/tv/nfl-network
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsport1_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png",Bein Sport 2 TH  
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsport2_480p/chunks.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-eurosport.png",Euro Sport 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
