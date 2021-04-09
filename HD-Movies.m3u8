@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Big Movies" tvg-logo="https://www.img01.xyz/assets/movie_poster/7/7936725ab32fedfb35bb0c80962c06a2.jpg",Robocorp 1987
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/a5e95a5536e35db20a533376eedc250f/a5e95a5536e35db20a533376eedc250f.m3u8
+
+#EXTINF:-1 group-title="Big Movies" tvg-logo="https://www.img01.xyz/assets/movie_poster/6/6ab7a05ce286b1a14676751a03d4260d.jpg",Robocorp 1990
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/ec812a83c18ca44dddf9a707c07f0e00/ec812a83c18ca44dddf9a707c07f0e00.m3u8
+
+#EXTINF:-1 group-title="Big Movies" tvg-logo="https://www.img01.xyz/assets/movie_poster/0/05fcf0cf08e3d15480e543279dd73559.jpg",Robocorp 1993
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/57fe1f0ca197b9fc6830de7166de6e4a/57fe1f0ca197b9fc6830de7166de6e4a.m3u8
+
+#EXTINF:-1 group-title="Big Movies" tvg-logo="https://www.img01.xyz/assets/movie_poster/2/26d028768037f91199ab3baf7ea92d99.jpg",Robocorp 2014
+https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/7d48b55aafbd37932860574d4b8e8540/7d48b55aafbd37932860574d4b8e8540.m3u8
+
+
 #EXTINF:-1 group-title="Movie_4K"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
 
