@@ -25,30 +25,31 @@
 "import": false
 },
 {
-         "name": "ตอนเรื่องเศร้าของคนโสด",
-          "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",  
+         "name": "เพื่อนรักหรือคนรัก",
+          "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2rd6a89xg9kw8c8o48.png",  
           "stations": [
           
                {
-               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 1",
-               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
-               "url": "https://www.doonung1234.com/series/view/49956/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "name": "เพื่อนรักหรือคนรัก ตอนที่ 1",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2rd6a89xg9kw8c8o48.png",              
+               "url": "https://www.doonung1234.com/series/view/4380/Club-Friday-10-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
  {
-               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 2",
-               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
-               "url": "https://www.doonung1234.com/series/view/50377/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "name": "เพื่อนรักหรือคนรัก ตอนที่ 2",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2rd6a89xg9kw8c8o48.png",              
+               "url": "https://www.doonung1234.com/series/view/4381/Club-Friday-10-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
  {
-               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 3",
-               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
-               "url": "https://www.doonung1234.com/series/view/50748/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "name": "เพื่อนรักหรือคนรัก ตอนที่ 3",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2rd6a89xg9kw8c8o48.png",              
+               "url": "https://www.doonung1234.com/series/view/4382/Club-Friday-10-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
  {
-               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 4 จบ",
-               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
-               "url": "https://www.doonung1234.com/series/view/51010/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "name": "เพื่อนรักหรือคนรัก ตอนที่ 4 จบ",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2rd6a89xg9kw8c8o48.png",              
+               "url": "https://www.doonung1234.com/series/view/4383/Club-Friday-10-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+
 
 
 
