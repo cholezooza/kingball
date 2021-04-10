@@ -1,18 +1,28 @@
 {
    "name": "Club Friday Series",
    "author": "@WHOAMI",
-   "url": "test::https://dl.dropbox.com/s/7oqjnb7i7j6gka8/t-sport.w3u",
+   "url": "https://raw.githubusercontent.com/cholezooza/kingball/main/CFW.w3u",
    "image": "https://github.com/cholezooza/mypic/raw/main/cfd.jpg",
    "info": "Club Friday Series",
    "groups": [  
    
-   {
+{
 "name": "ตอนความเจ็บปวดของมือที่สาม",
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2jw7qba5grackg8w80.jpg",
 "url": "https://dl.dropbox.com/s/kranhnyqe6zjk55/ClubFriday.w3u",
 "import": false
 },
 
+{
+         "name": "Digital TV",
+          "image": "https://cdn.britannica.com/68/195168-050-BBAE019A/football.jpg",  
+          "stations": [
+          
+               {
+               "name": "TV 5 HD",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png",              
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
 
 
 
