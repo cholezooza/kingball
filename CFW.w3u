@@ -18,6 +18,16 @@
 "url": "https://dl.dropbox.com/s/jsozagy4xeodfqc/ClubFriday_01.w3u",
 "import": false
 },
+{
+         "name": "Digital TV",
+          "image": "https://cdn.britannica.com/68/195168-050-BBAE019A/football.jpg",  
+          "stations": [
+          
+               {
+               "name": "TV 5 HD",
+               "image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png",              
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
 
 
 
