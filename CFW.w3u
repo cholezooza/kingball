@@ -13,20 +13,41 @@
 "import": false
 },
 {
+"name": "ตอนเรื่องเศร้าของคนโสด",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",
+"url": "https://dl.dropbox.com/s/ym6uxaz8i2kvm3c/ClubFriday_02.w3u",
+"import": false
+},
+{
 "name": "ตอนเพื่อนรักเพื่อนร้าย",
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3er3h5tfu7k0oo8gws.png",
 "url": "https://dl.dropbox.com/s/jsozagy4xeodfqc/ClubFriday_01.w3u",
 "import": false
 },
 {
-         "name": "Digital TV",
-          "image": "https://cdn.britannica.com/68/195168-050-BBAE019A/football.jpg",  
+         "name": "ตอนเรื่องเศร้าของคนโสด",
+          "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",  
           "stations": [
           
                {
-               "name": "TV 5 HD",
-               "image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png",              
-               "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 1",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
+               "url": "https://www.doonung1234.com/series/view/49956/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+ {
+               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 2",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
+               "url": "https://www.doonung1234.com/series/view/50377/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+ {
+               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 3",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
+               "url": "https://www.doonung1234.com/series/view/50748/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+ {
+               "name": "ตอนเรื่องเศร้าของคนโสด ตอนที่ 4 จบ",
+               "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/47ysluy8sjuo80ckgo.jpg",              
+               "url": "https://www.doonung1234.com/series/view/51010/Club-Friday-The-Series-12-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
 
 
