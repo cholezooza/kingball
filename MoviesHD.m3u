@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 group-title="Movies-History" tvg-logo="https://dooflix.com/wp-content/uploads/2021/03/MV5BMTAzOTQ5Nzg4MzheQTJeQWpwZ15BbWU2MDQwODAxNw@@._V1_SX300.jpg",The Alamo
+https://dooflix.com/movie/the-alamo/
+#EXTINF:0 group-title="Movies-Action" tvg-logo="https://dooflix.com/wp-content/uploads/2021/04/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@._V1_SX300.jpg", ด่วนวินาศเอาไม่อยู่ | 2010
+https://dooflix.com/movie/unstoppable/
+#EXTINF:0 group-title="Movies-Action" tvg-logo="https://dooflix.com/wp-content/uploads/2021/04/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@._V1_SX300.jpg", เหิรฟ้า ปล้นเย้ยนรก | 1994
+https://dooflix.com/movie/drop-zone/
+#EXTINF:0 group-title="Movies-Action" tvg-logo="https://dooflix.com/wp-content/uploads/2021/03/MV5BZDdmMDM2MDYtYjhjMi00Mzg4LTljYTktOGVmNTM5ZDgyNjNjXkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_SX300.jpg", ฝ่าวิกฤต 12 รอบ
+https://dooflix.com/movie/12-rounds-2-reloaded/
+
 #EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/movie_poster/b/bd0dcafcc31418f293887b00a58c699c.jpg" group-title="Movies-Action", 
 Peak Rescue (Dian feng ying jiu) (2019)
 https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/2409d74c51646aa19654c8d8aeb25b7b/2409d74c51646aa19654c8d8aeb25b7b.m3u8
