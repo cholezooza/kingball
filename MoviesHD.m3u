@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 group-title="Movies-Action" tvg-logo="https://movie24th.com/wp-content/uploads/2020/11/1128.jpg",คนเหล็ก4 มหาจักรกลล้างโลก | 2009
+https://p2p-ns1.sage.stream/hls/terminator-salvation-2009/index.m3u8
+#EXTINF:0 group-title="Movies-Action" tvg-logo="https://movie24th.com/wp-content/uploads/2020/09/0311-402x603.jpg", Bent | 2018
+https://p2p-ns1.sage.stream/hls/bent-2018/index.m3u8
+#EXTINF:0 group-title="Movies-Action" tvg-logo="https://movie24th.com/wp-content/uploads/2020/11/1091.jpg", โกเอม่อน คนเทวดา | 2009
+https://p2p-ns1.sage.stream/hls/goemon-2009/index.m3u8
+#EXTINF:0 group-title="Movies-Sci-Fi" tvg-logo="https://movie24th.com/wp-content/uploads/2020/11/1122-402x603.jpg", อมนุษย์พันธุ์สังหาร | 2009
+https://p2p-ns1.sage.stream/hls/screamers-the-hunting-2009/index.m3u8
+
 #EXTINF:0 group-title="Movies-History" tvg-logo="https://dooflix.com/wp-content/uploads/2021/03/MV5BMTAzOTQ5Nzg4MzheQTJeQWpwZ15BbWU2MDQwODAxNw@@._V1_SX300.jpg",The Alamo
 https://dooflix.com/movie/the-alamo/
 #EXTINF:0 group-title="Movies-Action" tvg-logo="https://dooflix.com/wp-content/uploads/2021/04/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@._V1_SX300.jpg", ด่วนวินาศเอาไม่อยู่ | 2010
