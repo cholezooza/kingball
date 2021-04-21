@@ -1,103 +1,104 @@
 #EXTM3U
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
+###https://pastebin.com/raw/NwkdaLth###
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl1_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/epl1_480/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/epl1_480/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl2_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-3.png",True Premier HD 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-3.png",True Premier HD 3
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl3_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-3.png",True Premier HD 3
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-3.png",True Premier HD 3
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-4.png",True Premier HD 4
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-4.png",True Premier HD 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/epl-5.png",True Premier HD 5
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-5.png",True Premier HD 5
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport1.png",True Sport HD 1
-#http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd1_480p/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport1.png",TrueSports HD 1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sporthd1_480p/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport2.png",True Sport HD 2
-#http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd2_480p/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport2.png",TrueSports HD 2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sporthd2_480p/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport3.png",True Sport HD 3
-#http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd3_480p/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport3.png",TrueSports HD 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sporthd3_480p/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport4.png",True Sport HD 4
-#http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd4_480p/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/hd-tsport4.png",TrueSports HD 4
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+#https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sporthd4_480p/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport2.png",True Sport 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport2_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport2.png",TrueSports 2
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sport2_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport5.png",True Sport 5
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport5_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport5.png",TrueSports 5
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sport5_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport6.png",True Sport 6
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport6_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport6.png",TrueSports 6
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sport6_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport7.png",True Sport 7
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport7_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/sd-tsport7.png",TrueSports 7
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2sport7_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",FOX SPORT 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport1_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",FOX SPORT 1
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/foxsport1_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-foxsports2.png",FOX SPORT 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport2_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-foxsports2.png",FOX SPORT 2
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/foxsport2_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-foxsports3.png",FOX SPORT 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/foxsport3_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-foxsports3.png",FOX SPORT 3
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/foxsport3_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-golf.png",Golf HD
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/golfchannel_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-golf.png",Golf HD
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/golfchannel_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png",Tennis HD
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/truetennis_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tennis.png",Tennis HD
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/truetennis_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nba.png",NBA
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2nba_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nba.png",NBA
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/2nba_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nfl.png",NFL
-https://we-play.tv/watching/tv/nfl-network
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nfl.png",NFL NETWORK
+https://xboxtv.ml/live/nflnetwork/index.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png",Bein Sport 1 TH  
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsport1_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png",Bein Sport 1 TH  
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/beinsport1_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png",Bein Sport 2 TH  
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png",Bein Sport 2 TH  
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/beinsporthd2_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-eurosport.png",Euro Sport 1
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-eurosport.png",Euro Sport 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-eurosport2.png",Euro Sport 2 
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-eurosport2.png",Euro Sport 2 
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sport
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sport
 http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://i.postimg.cc/7ZyNfR79/btsport1.png",BT Sport 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://i.postimg.cc/7ZyNfR79/btsport1.png",BT Sport 1
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/btsport1/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://i.postimg.cc/CxHsD4sg/btsport2.png",BT Sport 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://i.postimg.cc/CxHsD4sg/btsport2.png",BT Sport 2
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/btsport2/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://i.postimg.cc/q7JXGC1C/btsport3.png",BT Sport 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport3/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://i.postimg.cc/q7JXGC1C/btsport3.png",BT Sport 3
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/btsport3/playlist.m3u8
 
-#EXTINF:-1 group-title="True Sport" tvg-logo="https://i.postimg.cc/6pyB4HX7/btsportespn.png",BT Sport ESPN
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://i.postimg.cc/6pyB4HX7/btsportespn.png",BT Sport ESPN
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/btsportespn/playlist.m3u8
