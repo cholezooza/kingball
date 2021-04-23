@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="Movies-Sci-Fi" tvg-logo="https://www.we-play.tv//uploads/backdrop/zack-snyders-justice-league-2021-backdrop-.jpg", Justice League| 2021
+https://we-play.tv/watching/movie/zack-snyders-justice-league-2021
+
 #EXTINF:0 group-title="Movies-Temp" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/06/Jurassic_World_Poster_2015.jpg", Jurassic world 1 | 2015
 https://www34.sbvideocdn.com/hls/tysxfaaj7s66j6cdaayrxvifoy3d6xum7hfdrrpjgzw35h465awd2gwmvd4a/index-v1-a1.m3u8
 #EXTINF:0 group-title="Movies-Temp" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/06/Jurassic-World-2-2018.jpg", Jurassic world 2 |2018
