@@ -14,9 +14,9 @@ https://mhd-01.ddns.net:30443/mdb_app/tpf1_480/playlist.m3u8|User-Agent=vlc&Refe
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1 V.5.1
-#EXTVLCOPT:http-referrer=https://www.ufac4.com/
-https://embed-web.blackboxsys.net/player.php?channel=epl-1&api_key=kmf743jnd|Referer=https://www.ufac4.com/
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1 V.5
+#EXTVLCOPT:http-referrer=https://player.ballnaka.tv/
+https://player.ballnaka.tv/?channel=tpf1&cate=sport|Referer=https://player.ballnaka.tv/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
