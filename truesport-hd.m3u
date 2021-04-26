@@ -1,14 +1,18 @@
 #EXTM3U
 ###https://pastebin.com/raw/NwkdaLth###
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1 V.1
 https://live.andaman888th.com/live/tpf1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1 V.2
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1 V.3
 #EXTVLCOPT:http-referrer=https://moohd24.com/live
 https://mhd-01.ddns.net:30443/mdb_app/tpf1_480/playlist.m3u8|User-Agent=vlc&Referer=https://moohd24.com/live
+
+#EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1 V.4
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
