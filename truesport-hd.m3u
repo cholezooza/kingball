@@ -7,6 +7,7 @@ https://live.andaman888th.com/live/tpf1/playlist.m3u8|User-Agent=vlc&Referer=htt
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",True Premier HD 1
+#EXTVLCOPT:http-referrer=https://moohd24.com/live
 https://mhd-01.ddns.net:30443/mdb_app/tpf1_480/playlist.m3u8|User-Agent=vlc&Referer=https://moohd24.com/live
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://api.blackboxsys.net/images/png/epl-2.png",True Premier HD 2
@@ -98,7 +99,7 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://i.postimg.cc/q7JXGC1C/btsport3.png",BT Sport 3
-https://ball8k.com/m_/channel.ball8k?stream=btsport3|User-Agent=vlc&Referer=https://ball8k.com
+https://ball8k.com/m_/channel.ball8k?stream=btsport3|Referer=https://ball8k.com
 
 #EXTINF:-1 group-title="TrueSports" tvg-logo="https://i.postimg.cc/6pyB4HX7/btsportespn.png",BT Sport ESPN
-https://ball8k.com/m_/channel.ball8k?stream=btsportespn|User-Agent=vlc&Referer=https://ball8k.com
+https://ball8k.com/m_/channel.ball8k?stream=btsportespn|Referer=https://ball8k.com
