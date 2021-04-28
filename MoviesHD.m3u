@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Movies-Action" tvg-logo="https://bettopfivemovie.com/wp-content/uploads/2021/03/oBgWY00bEFeZ9N25wWVyuQddbAo-185x278.jpg",Nobody | 2021 | TH
+https://vod-th8.streammaster.co/vod/nd_1804_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies-Docamentary" tvg-logo="https://bettopfivemovie.com/wp-content/uploads/2020/09/p946-185x278.jpg",David Attenborough A Life on Our Planet (2020) เดวิด แอทเทนเบอเรอห์ ชีวิตบนโลกนี้ | 2021 | TH
+https://vod-th5.streammaster.co/vod/1210_daa.mp4/chunk.m3u8
+
 #EXTINF:-1 group-title="Movies-Drama" tvg-logo="https://www.we-play.tv//uploads/posters/ride-or-die-2021-poster-.jpg",Ride or Die | 2021 | TH
 https://www.we-play.tv/watching/movie/ride-or-die-2021
 #EXTINF:-1 group-title="Movies-Drama" tvg-logo="https://www.doofree88.com/storage/images/2020/9/uZZ4XPcd6OMq8yQPDCjGQyoSihxBTcrolTjp9orn.jpg",The Davinci code| 2006 | TH
