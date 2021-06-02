@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.64.31,mp4a.40.2",RESOLUTION="1280x720"
+http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/playlist.m3u8
